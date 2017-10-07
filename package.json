@@ -1,0 +1,19 @@
+{
+  "name": "javascript-blockchain",
+  "version": "1.0.0",
+  "description": "Javascript blockchain demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Bennett",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.1",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
